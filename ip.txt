@@ -1,0 +1,11 @@
+$rede1= Read-Host ’Digite a terceira parte da rede ip: ’
+
+$rede2 = Read-Host ’Digite a quarta parte do ip: ’
+
+netsh interface ip set address "Ethernet" static 172.17.$rede1.$rede2 255.255.255.0 172.17.$rede1.254 1
+
+netsh interface show interface
+
+netsh interface ipv4 set dnsservers "Ethernet" static 172.17.0.9 primary
+
+netsh interface ipv4 add dnsservers "Ethernet" 172.16.0.9 index=2

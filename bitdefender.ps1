@@ -1,0 +1,1 @@
+&'\\172.17.90.27\programas$\Bitdefender\COTIA\setupdownloader_[aHR0cHM6Ly9jbG91ZC1lY3MuZ3Jhdml0eXpvbmUuYml0ZGVmZW5kZXIuY29tL1BhY2thZ2VzL0JTVFdJTi8wL0ZGVmlXVS9pbnN0YWxsZXIueG1sP2xhbmc9cHQtQlI=].exe'
