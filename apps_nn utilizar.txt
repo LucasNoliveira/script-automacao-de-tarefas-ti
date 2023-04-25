@@ -1,0 +1,9 @@
+&'\\172.17.90.27\programas$\Scripts/adobe reader.bat'
+
+&'\\172.17.90.27\programas$\Scripts/bitdefender.ps1'
+
+&'\\172.17.90.27\programas$\Scripts/office.ps1'
+
+&'\\172.17.90.27\programas$\Scripts/02. chrome.bat'
+
+&'\\172.17.90.27\programas$\Scripts/01. fast_config.bat'

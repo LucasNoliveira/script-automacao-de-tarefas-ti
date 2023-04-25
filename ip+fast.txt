@@ -36,7 +36,6 @@ $Senha = ConvertTo-SecureString "$Password" -AsPlainText -Force
 
 New-LocalUser $Username -Password $Senha -FullName $Username -Description $Username -PasswordNeverExpires -UserMayNotChangePassword
 
-}
 
 $autologon = Read-Host 'Quer definir auto-logon para o usuário criado (y/n)?’
 
@@ -58,7 +57,7 @@ $pcname = Read-Host 'Qual nome quer colocar no computador?'
 Rename-Computer -NewName "$pcname" -Restart
 
 }
-
+}
 }
 
 $pcname = Read-Host 'Qual nome quer colocar no computador?'
